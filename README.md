@@ -3,6 +3,8 @@ Welcome to my **C++ Programs** repository!
 This is a curated collection of C++ programs that I’ve written, covering everything from basic syntax to advanced concepts.  
 Whether you’re a beginner learning C++ or someone brushing up on core topics, this repo has something useful for you.
 
+![Cplusplus_programs](271e5074-129f-4858-ba3a-e055b9b1c2d2.png)
+
 ---
 
 ## What's Inside?
