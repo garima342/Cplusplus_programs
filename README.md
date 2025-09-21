@@ -19,7 +19,7 @@ Whether you’re a beginner learning C++ or someone brushing up on core topics, 
   Linked lists, stacks, queues, trees, sorting, searching, and problem-solving codes.
 
 - **Interesting Challenges**  
-  Small projects, puzzles, and logical challenges in C++.
+  Small projects, puzzles, logical challenges, fun simulation programs, and animation programs in C++.
 
 ---
 
